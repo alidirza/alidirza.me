@@ -25,7 +25,7 @@ function Home2() {
               </i>
              I am a 
               <i>
-                <b className="purple"> 3rd </b>
+                <b className="purple"> 4rd </b>
               </i>
               year
               <i>
